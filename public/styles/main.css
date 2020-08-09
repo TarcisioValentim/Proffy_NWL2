@@ -44,7 +44,7 @@ body {
 }
 
 body, input, button, textarea {
-    /*font: 500 1.6rem Poppins;*/
+    font: 500 1.6rem Poppins;
     font-weight: 500;
     font-family: Poppins;
     font-size: 1.6rem;
@@ -56,7 +56,7 @@ body, input, button, textarea {
     max-width: 700px;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 699px) {
     :root{
         font-size: 62.5%; /* todo 1rem vai ser relativo a 10px */
     }

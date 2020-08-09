@@ -1,0 +1,28 @@
+{
+  "name": "react-nlw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarcisioValentim/Proffy_NWL2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarcisioValentim/Proffy_NWL2/issues"
+  },
+  "homepage": "https://github.com/TarcisioValentim/Proffy_NWL2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-pre-gyp": "^0.15.0",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

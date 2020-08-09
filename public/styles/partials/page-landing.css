@@ -85,12 +85,12 @@
     }
 }
 
-@media (min-width: 1100px) {
-    /*
+@media (min-width: 700px) {
+    
     #page-landing body{
     max-width: 700px;
     }
-*/
+
     #page-landing #container {
         max-width: 1100px;
         display: grid;
