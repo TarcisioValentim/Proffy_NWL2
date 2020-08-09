@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" src="./public/images/papers/logoReadme.svg" height="200px" />
+    <img alt="Proffy" src="./public/images/papers/logoReadme.svg" height="400px" />
     <br>Next Level Week #2<br/>
     Frontend | Backend | Banco de Dados
 </h1>
